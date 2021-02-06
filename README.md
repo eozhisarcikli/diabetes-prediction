@@ -6,4 +6,4 @@ The NHANES program began in the early 1960s and has been conducted as a series o
 
 The NHANES interview includes demographic, socioeconomic, dietary, and health-related questions. The examination component consists of medical, dental, and physiological measurements, as well as laboratory tests administered by highly trained medical personnel.
 
-Finally, we will be using data from NCHS for diabeties prediction.
+Finally; NCHS data, which includes a lot of health care information, will be used for diabeties prediction.
