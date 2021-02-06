@@ -7,3 +7,15 @@ The NHANES program began in the early 1960s and has been conducted as a series o
 The NHANES interview includes demographic, socioeconomic, dietary, and health-related questions. The examination component consists of medical, dental, and physiological measurements, as well as laboratory tests administered by highly trained medical personnel.
 
 Finally; NCHS data, which includes a lot of health care information, will be used for diabeties prediction.
+
+csv's under data folder are like below;
+
+NCHS1.csv is a demographics dataset. Link: https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Demographics&CycleBeginYear=2013
+
+NCHS2.csv is an examinations dataset. Link: https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Examination&CycleBeginYear=2013
+
+NCHS3.csv is a dietary dataset. Link: https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Dietary&CycleBeginYear=2013
+
+NCHS4.csv is a laboratory dataset. Link: https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Laboratory&CycleBeginYear=2013
+
+NCHS5.csv is a questionnaire dataset. Link: https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Questionnaire&CycleBeginYear=2013
