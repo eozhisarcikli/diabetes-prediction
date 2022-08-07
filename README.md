@@ -13,12 +13,8 @@ NCHS data, which includes a lot of health care information covering the years 20
 
 csv's under data folder are like below;
 
-NCHS1.csv is a **demographics** dataset. A complete variable dictionary can be found [here](https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Demographics&CycleBeginYear=2013)
-
-NCHS2.csv is an **examinations** dataset. A complete variable dictionary can be found Link: https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Examination&CycleBeginYear=2013
-
-NCHS3.csv is a **dietary** dataset. A complete variable dictionary can be found Link: https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Dietary&CycleBeginYear=2013
-
-NCHS4.csv is a **laboratory** dataset. A complete variable dictionary can be found Link: https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Laboratory&CycleBeginYear=2013
-
-NCHS5.csv is a **questionnaire** dataset. A complete variable dictionary can be found Link: https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Questionnaire&CycleBeginYear=2013
+- NCHS1.csv is a **demographics** dataset. A complete variable dictionary can be found [here](https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Demographics&CycleBeginYear=2013) .
+- NCHS2.csv is an **examinations** dataset. A complete variable dictionary can be found [here](https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Examination&CycleBeginYear=2013) .
+- NCHS3.csv is a **dietary** dataset. A complete variable dictionary can be found [here](https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Dietary&CycleBeginYear=2013) .
+- NCHS4.csv is a **laboratory** dataset. A complete variable dictionary can be found [here](https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Laboratory&CycleBeginYear=2013) .
+- NCHS5.csv is a **questionnaire** dataset. A complete variable dictionary can be found [here](https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Questionnaire&CycleBeginYear=2013) .
